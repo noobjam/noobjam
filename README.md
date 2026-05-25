@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  working on deciphering how LLMs work<br>🌱 I’m currently Expanding my AI skills beyond the comfort of Colab notebooks<br>💬 Ask me about anything and everything<br>
+🔭  working on deciphering how * work<br>🌱 I’m currently Expanding my AI skills beyond the comfort of Colab notebooks<br>💬 Ask me about anything and everything<br>
 
 
 # 💻 Some of the things i touched before:
